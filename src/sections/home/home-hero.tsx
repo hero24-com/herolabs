@@ -92,7 +92,7 @@ export function HomeHero({ sx, ...other }: BoxProps) {
             }),
           ]}
         >
-          Hero Solutions
+          Herolabs
         </Box>
       </Box>
     </m.div>

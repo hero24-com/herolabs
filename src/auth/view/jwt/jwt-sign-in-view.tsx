@@ -49,7 +49,7 @@ export function JwtSignInView() {
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   const defaultValues: SignInSchemaType = {
-    email: 'demo@herosolutions.fi',
+    email: 'demo@herolabs.fi',
     password: '@2Minimal',
   };
 

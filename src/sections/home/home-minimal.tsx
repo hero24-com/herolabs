@@ -35,7 +35,7 @@ export function HomeMinimal({ sx, ...other }: BoxProps) {
       <SectionTitle
         caption="Why Choose Us"
         title="What makes"
-        txtGradient="Hero Solutions special?"
+        txtGradient="Herolabs special?"
         sx={{ mb: { xs: 5, md: 8 }, textAlign: { xs: 'center', md: 'left' } }}
       />
 
@@ -88,7 +88,7 @@ export function HomeMinimal({ sx, ...other }: BoxProps) {
       >
         <Box
           component="img"
-          alt="Hero Solutions Dashboard"
+          alt="Herolabs Dashboard"
           src={`${CONFIG.assetsDir}/assets/images/about/hero.webp`}
           sx={{ width: 720 }}
         />

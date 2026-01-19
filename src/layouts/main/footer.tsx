@@ -181,7 +181,7 @@ export function HomeFooter({ sx, ...other }: FooterProps) {
         <Box sx={{ mt: 1, typography: 'caption' }}>
           © All rights reserved.
           <br /> made by
-          <Link href="https://herosolutions.fi/"> herosolutions.fi </Link>
+          <Link href="https://herolabs.fi/"> herolabs.fi </Link>
         </Box>
       </Container>
     </FooterRoot>
